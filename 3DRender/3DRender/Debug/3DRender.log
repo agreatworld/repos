@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\Fountain Gattuso\source\repos\3DRender\3DRender\源.cpp(515,6): warning C4101:  “j”: 未引用的局部变量
+C:\Users\Fountain Gattuso\source\repos\3DRender\3DRender\源.cpp(766,9): warning C4838:  从“int”转换到“DWORD”需要收缩转换
+  3DRender.vcxproj -> C:\Users\Fountain Gattuso\source\repos\3DRender\Debug\3DRender.exe
